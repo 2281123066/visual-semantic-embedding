@@ -44,8 +44,8 @@ For a complete list of results on these tasks, see [this paper](http://arxiv.org
 
 This code is written in python. To use it you will need:
 
-* Python 2.7
-* Theano 0.7
+* Python 3.6
+* Theano 0.8.2
 * A recent version of [NumPy](http://www.numpy.org/) and [SciPy](http://www.scipy.org/)
 
 If you want to caption your own images, you will also need:
