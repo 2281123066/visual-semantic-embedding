@@ -1,6 +1,7 @@
 # visual-semantic-embedding
 
 Code for the image-sentence ranking methods from "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models" (Kiros, Salakhutdinov, Zemel. 2014).
+Thanks to ryankiros's implementation of the model in Theano: https://github.com/ryankiros/visual-semantic-embedding
 
 Images and sentences are mapped into a common vector space, where the sentence representation is computed using LSTM. This project contains training code and pre-trained models for Flickr8K, Flickr30K and MS COCO.
 
